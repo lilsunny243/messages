@@ -75,7 +75,7 @@
     "webpack-cli": "^3.3.12"
   },
   "devDependencies": {
-    "ajv": "^6.11.0",
+    "ajv": "^6.12.3",
     "async": "^3.2.2",
     "await-sleep": "0.0.1",
     "aws-sdk": "^2.610.0",
